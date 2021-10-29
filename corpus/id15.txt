@@ -1,0 +1,401 @@
+
+
+Vitimização por violência urbana em uma cidade de médio porte do sul do Brasil
+
+Resumo
+A violência urbana afeta a vida dos indiví­duos, tornando-se um problema complexo de saúde e segurança pública. Buscando avaliar a situação de violência em uma cidade de médio porte, realizou-se um estudo transversal, de base populacional, investigando a prevalência de vitimização por violência urbana para furtos, roubos, agressões e furto/roubo à residência nos últimos cinco anos e 12 meses; e o perfil das vítimas e a prevalência de notificação à polícia. Foi construído um escore a fim de medir a vitimização por pelo menos um dos tipos de violência em cada período. Na análise bruta, a associação entre a vitimiza­ção por cada tipo de violência e as variáveis independentes foi investigada através do teste de Wald para heterogeneidade e para tendência linear, quando aplicável. A Re­gressão de Poisson foi utilizada na análise multivariável. Foram entrevistados 2.912 in­divíduos (idade = 20 anos), sendo que 16,6% destes sofreram violência no último ano e 28% nos últimos cinco anos. As maiores prevalências de vitimização foram de furto/roubo à residência (9,7%) e furto (6,0%). As principais vítimas de violência urbana foram homens e jovens. Mais da metade dos vitimizados não notificou a ocorrência por não confiar na polícia. Os achados confirmam a importância de pesquisas de vitimização além das metrópoles. As discus­sões sobre o tema mostram a necessidade de incrementar, executar ou criar políticas públicas de segurança e saúde em distintos contextos nacionais, sem desconsiderar cidades do interior.
+Palavras-chave: Violência. Pesquisa de viti­mização. Vítimas. Registro. Crime.
+
+Introdução
+A violência, definida como qualquer ato que pressuponha “uso intencional de força física ou poder, real ou sob a forma de ameaça, contra si próprio, outra pessoa, um grupo ou uma comunidade, que resulte ou tenha grande possibilidade de resultar em lesão, morte, dano psicológico, deficiência de desenvolvimento ou privação”1 é um fenômeno sócio-histórico que acompa­nha a humanidade ao longo de toda sua existência2. Portanto, não se constitui ori­ginalmente como um problema de saúde pública. Entretanto, pelo número de vítimas e pela magnitude das sequelas orgânicas e emocionais que produz3, em 1996, na 49ª Assembléia Mundial de Saúde, a Organiza­ção Mundial de Saúde (OMS)1 declarou a violência como um importante e crescente problema de saúde pública no mundo. Chamou a atenção para as consequências da violência, destacando a importância de se passar a considerar o problema com urgência e organizar políticas públicas de combate e prevenção1.
+As estatísticas mostram que a violência é responsável por mais de um milhão de mor­tes/ano no mundo e, no Brasil, representa a segunda maior causa de mortalidade (12,6% das mortes)1,4, e a principal causa de morte entre pessoas na faixa etária entre 15-44 anos1. Seu impacto na vida dos indivíduos é incontestável – nos danos à saúde, na redução do bem-estar, no medo e na in­segurança que ela ocasiona a todos. Além disso, os prejuízos econômicos no campo da saúde (gastos médicos e hospitalares com emergência) chegam a quatro bilhões de reais ao ano no Brasil5,6. 
+De acordo com a OMS1, a violência pode ser subdividida em três grupos: auto-infli­gida, interpessoal ou coletiva. A violência interpessoal, infligida por outra pessoa ou pequeno grupo de pessoas, abarca a violên­cia urbana ou comunitária, a qual ocorre geralmente no espaço urbano, ou seja, fora de casa, entre pessoas sem laços de paren­tesco (consanguíneo ou não), que podem ser conhecidos ou estranhos. Este artigo se ocupará deste tipo específico de violência, que inclui crimes contra o patrimônio, como os furtos e roubos, e crimes contra a vida, como as agressões físicas.
+A partir da década de 70 houve um crescimento em todas as taxas de violên­cia urbana no Brasil, principalmente em suas formas mais severas como os roubos, sequestros e homicídios7. Embora essas for­mas de violência ocorram mais em grandes áreas urbanas – como Rio de Janeiro e São Paulo, que concentram mais da metade de todos os homicídios registrados no país8 – os tipos mais comuns de violência urbana, como furtos e agressões, também afetam, ainda que em menor prevalência, moradores de cidades de menor porte. No estado do Rio Grande do Sul (RS), a cidade de Pelotas, em 2004, esteve entre as dez ci­dades com maiores taxas de lesões corporais e delitos envolvendo drogas e em 17° lugar no ranking nacional em lesões corporais (agressões com ou sem arma) registradas, com uma taxa de 859/100.000 habitantes9. 
+Todavia, estes números ainda não cor­respondem a todos os crimes ocorridos. Ainda que sejam altos os índices de vio­lência urbana nas cidades de médio porte, a maioria dos estudos se ocupa exclusiva­mente da ocorrência de homicídios10-12, na sua quase totalidade notificados às institui­ções policiais13. Estima-se que a taxa geral de subnotificação no Brasil para crimes menos extremos varie de 70 a 80%14. Muitas vítimas não denunciam crimes sofridos, como fur­tos e roubos, por razões como medo, vergo­nha, valor do bem subtraído e/ou descrença nos sistemas policial e judicial15,16. 
+Devido aos altos índices de subnotifi­cação, que impedem um conhecimento da abrangência da violência, muitos países passaram a realizar pesquisas de vitimiza­ção, que deram suporte ou complemen­taram as estatísticas oficiais. Os estudos de vitimização, ao questionarem especi­ficamente episódios de violência sofrida, permitem delinear os fatores de risco para vitimização17. No Brasil, a realização des­sas pesquisas se intensificou nos últimos 20 anos, mas diferenças entre as variáveis abordadas, desenho da amostra, período de referência e população-alvo impedem comparações dos achados. Além disso, a maioria desses trabalhos se refere às capitais e regiões metropolitanas18, por essas apre­sentarem maiores taxas de criminalidade violenta19. Não foram encontradas pesqui­sas publicadas em revistas científicas que se referissem especificamente à 
+ violência urbana em cidades de médio porte e do interior. Todavia, o impacto da violência no cotidiano da população, incluindo municípios médios e pequenos, não deve ser desconsiderado. As informa­ções sobre o perfil das vítimas, os tipos de violências cometidas e a subnotificação são imprescindíveis aos municípios e às institui­ções de segurança pois podem determinar quais medidas serão mais efetivas para o controle e o combate da violência. 
+Este trabalho pretende contribuir com a idéia contrária à circunscrição das pes­quisas de vitimização apenas em grandes cidades, pois, além de limitar discussões, desconsidera a dimensão e a visibilidade da violência nas cidades menores e, conse­quentemente, o modo como ela pode afetar a qualidade e o estilo de vida dos indivíduos residentes no interior do país. Essa concep­ção ainda minimiza o fato de a violência se fazer presente de modos diferentes em distintos locais.
+Considerando a relevância do tema, o objetivo deste estudo foi, portanto, avaliar a prevalência de vitimização por alguns tipos de violência urbana (furtos, roubos, agressões e furtos/roubos a residências) e os fatores associados à sua ocorrência em um município de médio porte, além de identificar a prevalência de notificação dos crimes sofridos à polícia. 
+Métodos
+Foi realizado um estudo transversal, de base populacional, na zona urbana do mu­nicípio de Pelotas/RS. Situada no extremo sul do Brasil, Pelotas é uma cidade de porte médio, com uma população de aproxima­damente 350 mil habitantes20. Este estudo foi realizado em sistema de consórcio de pesquisa21, caracterizado pela investigação conjunta entre vários pesquisadores com a finalidade de avaliar diversos aspectos da saúde da população. Neste sistema é aplicado um questionário único, estru­turado e pré-testado contendo questões específicas relativas a todos os temas de pesquisa, dentre eles: prática de atividade física, sintomas de angina, diagnóstico de artrite reumatóide e sintomas de prisão de ventre; além de características demográficas e socioeconômicas comuns a todos os estu­dos. O bloco sobre vitimização por violência urbana foi o último conjunto de perguntas do instrumento, evitando possíveis recusas em virtude do tema.
+Devido à limitação no número de per­guntas possíveis para cada pesquisador, foram investigados quatro tipos de violência urbana, considerados os mais prevalentes – furtos, roubos, agressões e furtos/roubos à residência. Optou-se por não investigar homicídios por este tipo de crime ter bom registro.
+O cálculo para determinação do tama­nho amostral levou em consideração as diversas associações a serem estudadas. Utilizou-se um nível de confiança de 95% e um poder estatístico de 80%. Houve acréscimo de 10% para perdas e recusas, e 15% para controle de fatores de confusão, considerando um efeito de delineamento de 3,0. O tamanho de amostra estimado foi de aproximadamente 2.300 indivíduos, con­templado com a seleção de 1.422 domicílios.
+O processo de amostragem, realizado em dois estágios, utilizou a demarcação dos setores censitários do Censo Demo­gráfico de 200022, como unidade amostral primária. Optou-se por uma amostra por conglomerados, simplificando a logística e diminuindo os custos. Após realização do cálculo de tamanho amostral que aten­desse aos objetivos gerais e específicos do estudo, verificou-se a necessidade de incluir um total de 1.400 domicílios na amostra populacional. Com o intuito de reduzir ao máximo o efeito de delineamento, foi acor­dado amostrar 11 domicílios em cada setor selecionado. Assim, dividiu-se o número de domicílios necessários para a amostra (1.400) pelo número de domicílios a serem visitados em cada setor (11), resultando em aproximadamente 127 setores censitários. Para que o número de setores a serem su­pervisionados por cada pesquisador fosse igual, um setor foi excluído, totalizando 126 setores censitários a serem estudados. 
+Os 404 setores censitários urbanos fo­ram ordenados de forma crescente, segundo a renda média dos chefes das famílias; de­pois foram sorteados sistematicamente 126 setores e, em cada um deles, 11 domicílios. Uma contagem do número de domicílios em cada setor foi realizada, de forma a atualizar os dados fornecidos pelo último censo. Nos casos em que houve aumento ou diminuição considerável no número de domicílios, alguns foram acrescidos ou excluídos, a fim de se manter a representa­tividade amostral. 
+Uma vez sorteados os domicílios, todos os indivíduos adultos, com idade igual ou superior a 20 anos, ali residentes foram incluídos na amostra, com exceção daque­les institucionalizados (asilos, hospitais e prisões) ou incapacitados física e/ou men­talmente para responder ao instrumento. Sendo assim, não houve controle algum segundo o número de moradores por domi­cílio. Entrevistadoras treinadas realizaram as entrevistas, que ocorreram no período entre outubro de 2007 e janeiro de 2008. 
+Indivíduos que se recusaram a participar da pesquisa ou que não se encontravam no domicílio foram procurados, em mais três ocasiões, pela entrevistadora ou pelo supervisor do trabalho de campo. As entre­vistas não realizadas após estas tentativas foram consideradas recusas (negaram-se a responder) ou perdas (nunca encontrados). O controle de qualidade dos dados constou na aplicação de uma versão reduzida do instrumento utilizado, em 10% da amos­tra, selecionada aleatoriamente. O local de condução da entrevista ficava a critério dos entrevistados, sendo que a maioria respon­deu em seu domicílio. 
+As variáveis independentes investiga­das foram: sexo (masculino/feminino); idade (em anos completos, categorizada posteriormente em 20-29, 30-39, 40-49, 50-59, = 60 anos); cor da pele auto-referida (categorizada em branca, preta e outra); situação conjugal (classificada em com ou sem companheiro); escolaridade (em anos completos de estudo, agrupada em 0-4, 5-8, 9-11, = 12 anos); e nível econômico, confor­me Associação Brasileira de Empresas de Pesquisa 2008 (ABEP)23. Esta classificação considera a quantidade de bens adquiridos e a escolaridade do chefe da família, poste­riormente divididos em grupos, sendo que o grupo A corresponde ao de mais posses.
+O instrumento utilizado especificamen­te para este estudo foi um questionário estruturado composto por dez perguntas, todas relativas à vitimização por cada um dos tipos de violência estudados. Ele foi criado pelos autores após revisão de vários instrumentos sobre o tema. Com a pergunta filtro, os entrevistados foram inicialmente questionados se “Desde <mês> do ano de 2002, alguém lhe roubou algum objeto de valor na rua ou entrou na sua casa e roubou algo, ou o agrediu fisicamente?”. Os casos com resposta positiva foram questionados sobre quais tipos de violência urbana ocor­reram com eles nos últimos 12 meses e nos últimos cinco anos. Por exemplo: “Conside­re que roubo à residência é quando alguém entra na casa ou no pátio e rouba alguma coisa. O(a) Sr.(a) teve sua casa roubada? Para os que responderam sim verificou-se “Quantos desses roubos à sua casa ocorre­ram desde <mês> de 2006?”
+Para assegurar o entendimento da perguntas as questões continham no seu cabeçalho uma definição, a saber:
+a) furto – ter algum bem subtraído por alguém, sem sofrer violência física e estando presente ou não no momento da ocorrência;
+b) roubo ou assalto – ter algum bem apropriado por outro, mediante uso de violência física ou ameaça à sua integridade;
+c) agressão – ter sofrido ferimento físico, com ou sem o uso de armas, tendo como agressor alguém não pertencente à sua família;
+d) roubo ou furto à residência – ter al­gum bem de sua residência apropriado por outrem, através do uso de violência ou não, estando à vítima presente ou não no local. 
+Às entrevistadoras foi instruído que clarificassem os conceitos de cada tipo de violência, conforme os itens acima, caso os entrevistados se mostrassem com dificulda­de em diferenciá-los. Não foi possível men­surar o tempo de aplicação do questionário sobre violência urbana especificamente, visto que o bloco compunha um instrumen­to mais abrangente, com perguntas sobre outros temas.
+Após conclusão da coleta de dados e uma vez conhecidos todos os tipos de vio­lência sofridos, foi construído um percen­tual para a vitimização por violência urbana global, definida como ter sofrido pelo me­nos um dos tipos de violência investigados em cada período. Esse escore foi construído a fim de se comparar a ocorrência de viti­mização com outros estudos. Além disso, os indivíduos que relataram ter sofrido alguma violência foram questionados quanto à no­tificação do(s) crime(s) à Polícia Civil e o(s) motivo(s) para a não notificação. 
+Neste trabalho, são mostradas as análi­ses de associação relativas ao período recor­datório de 12 meses, pelo fato de o padrão de vitimização ter se mostrado o mesmo nos dois períodos estudados.
+As análises foram realizadas utilizando-se o programa estatístico Stata 9.024. O cálculo de tamanho amostral, além da entrada dos dados, duplamente digitados e com checa­gem automática de consistência e amplitude, foram realizados utilizando-se o programa Epi-Info 6.0425. Na análise bruta, a associação entre vitimização por cada tipo de violência e as variáveis independentes foi investigada através do teste de Wald para heterogeneida­de e para tendência linear, quando aplicável. A Regressão de Poisson foi utilizada na aná­lise multivariável. Nesta análise, todas as variáveis independentes foram consideradas no mesmo nível e ajustadas umas às outras, considerando o efeito de delineamento.
+Este estudo foi aprovado pelo Comitê de Ética em Pesquisa da Universidade Federal de Pelotas (Ofício 091/07 de 15/10/2007). Todos os entrevistados assinaram um Ter­mo de Consentimento Livre e Esclarecido, com exceção dos analfabetos e deficientes visuais, que registram impressão digital. Não houve necessidade de efetuar nenhum encaminhamento.
+Resultados
+Dentre os 1.460 domicílios visitados, foram considerados elegíveis para o estu­do 3.180 indivíduos. Desses, 2.986 foram entrevistados, havendo 6,1% de perdas e recusas (N = 194). Foram excluídos das análises 41 indivíduos entrevistados em janeiro de 2008, a fim de não comprome­ter o período de tempo utilizado por este estudo (2002/2007) e os 33 casos que não obedeciam aos critérios de inclusão.
+A Tabela 1 descreve a amostra estu­dada segundo variáveis demográficas e socioeconômicas. A amostra foi composta predominantemente por indivíduos do sexo feminino (56,8%), de cor da pele branca (75,5%) e de nível econômico C (46,6%). A maioria possuía companheiro (61,3%), aproximadamente um terço tinha de cinco a oito anos de escolaridade e 23,9% estava na faixa etária entre 20 e 29 anos. 
+As prevalências de vitimização nos dois períodos estudados estão apresentadas na Figura 1. Um total de 28,0% (N = 815) da população sofreu violência urbana global nos últimos cinco anos e 16,6% (N = 482) nos últimos 12 meses. Em relação ao perí­odo mais recente, furto/roubo à residência (9,7%, N = 283) e furto (6,0%, N = 173) foram os tipos de violência mais frequentes.
+As prevalências de vitimização por cada tipo de violência e segundo variáveis demo­gráficas e socioeconômicas nos últimos 12 meses estão apresentadas na Tabela 2. Ne­nhuma variável independente apresentou associação com o desfecho mais frequente, furto/roubo à residência. Por outro lado, o furto foi significativamente mais frequente entre os homens e os mais jovens. A agres­são foi o tipo de violência menos frequente, com uma prevalência de 1,5% (N = 43) nos últimos 12 meses (Tabela 2). Indivíduos mais jovens e sem companheiro foram os mais vitimizados. A prevalência de roubo foi de 2,7% (N = 78), sendo os homens e, assim como na agressão, os indivíduos mais jovens e sem companheiro, os grupos de maior risco.
+A análise multivariável (não apresen­tada), considerando todas as variáveis independentes como potenciais fatores de confusão, confirmou os resultados das aná­lises bivariadas descritas na Tabela 2, com exceção da variável escolaridade. Ao ajustar o seu efeito para variáveis demográficas e socioeconômicas, a escolaridade deixou de se associar à ocorrência de furtos e roubos.
+Quanto à subnotificação, a sua prevalên­cia foi de 52,8% (Tabela 3). O roubo foi o tipo de violência menos subnotificado (37,0%), seguido da agressão (41,7%) e do furto (55,7%). Embora o furto/roubo à residência tenha sido o tipo de violência mais preva­lente, para este crime a subnotificação foi a maior (57,3%) dentre as violências inves­tigadas. A Figura 2 apresenta os principais motivos de não notificação da violência. Mais da metade das vítimas (57,7%) referiu não registrar o crime por não confiar na polícia. Cerca de um quarto dos indivíduos não notificou a violência sofrida por não co­nhecer o criminoso; 8,3%, por terem medo de sofrer retaliação do agressor; e 6,4% por terem resolvido a situação de vitimização não recorrendo aos meios legais.
+Discussão
+Em Pelotas, a diferença entre as preva­lências de vitimização nos períodos estuda­dos foi relativamente pequena, visto que nos últimos 12 meses elas representaram quase metade das prevalências nos últimos cinco anos. É possível que as prevalências nos cinco anos estejam subestimadas, devido a um viés de memória ou erro de recordatório – no caso das vítimas não terem conside­rado as violências sofridas como graves ou traumáticas. Por outro lado, não se pode descartar a possibilidade de ter ocorrido um aumento considerável, no último ano, da vitimização no município pelos quatro tipos de violência urbana estudados. 
+Tendo em vista a pequena diferença entre as prevalências de vitimização encon­tradas em ambos os períodos, questiona-se a qualidade dos dados que são coletados utilizando-se longos períodos de recordató­rio em pesquisas de vitimização. As formas de violência que não culminam em morte são, além de mais prevalentes em todos os estudos revisados, importantes para uma série de agravos à saúde, à moral e ao pa­trimônio. Portanto, elas devem ser medidas a nível populacional, considerando um recordatório menor, visto que a vítima pode não ter relatado um (ou mais) episódio(s) de vitimização. Os motivos podem ser di­versos: por exemplo, não valorizar o objeto subtraído ou não entender a ocorrência como delituosa. Outras limitações impor­tantes dessas pesquisas são a gravidade da violência e o tempo em que ela ocorreu: o entrevistado tende a lembrar dos fatos de maior gravidade e mais recentes, o que poderia afetar os resultados referentes aos recordatórios longos como o de cinco anos, amplamente utilizado26-28. 
+Os resultados para Pelotas surpreen­dem, uma vez que são muito próximos ou até mesmo superam as prevalências dos tipos de violência urbana estudadas em cidades brasileiras de grande porte. No último ano, a prevalência de vitimização por violência urbana global (ter sofrido pelo menos um dos crimes estudados – furtos, roubos, agressões e furto/roubo à residên­cia) na população de Pelotas foi de 16,6% enquanto, em Belo Horizonte (MG), foi de 22,4% em 200229. 
+Em relação ao crime de furto/roubo à residência, em Pelotas os relatos desta ocorrência superaram, por exemplo, os de capitais como Belo Horizonte e Rio de Janeiro. Cerca de uma pessoa a cada dez mencionou ter tido sua residência furtada ou roubada no último ano – quase o dobro da prevalência desse crime relatada em Belo Horizonte (5,3%). Considerando o período de cinco anos, Pelotas teve maior prevalên­cia de furto/roubo à residência (16%) em comparação a São Paulo (12%)28 e ao Rio de Janeiro (1,4%)18. É necessário salientar, entretanto, que a prevalência encontrada em Pelotas pode estar superestimada em virtude da forma como o dado foi coletado. Neste estudo, na definição de furto/roubo à residência foram considerados quaisquer tipos de bens subtraídos do interior do do­micílio ou do terreno em que ele se situa, com ou sem uso de violência e estando a vítima presente ou não no momento em que o crime ocorreu. Isso limita a comparação entre os dados encontrados para este tipo de violência em Pelotas e em cidades de gran­de porte26-28, que costumam caracterizar o roubo à residência como ‘arrombamento’ que, por definição, pressupõe utilização de violência (estando a vítima presente ou não no momento da ação). 
+As demais prevalências de vitimização encontradas neste estudo apontam as violências urbanas estudadas como um problema importante para a população. Apesar de a agressão ser menos prevalente que os demais crimes (1,5%), ela não deve ser desconsiderada, principalmente pelos prejuízos físicos e/ou psicológicos que pode acarretar aos indivíduos. Em geral, estudos sobre vitimização incluem na categoria agressão comportamentos não pesquisa­dos neste estudo, como agressão verbal (insultos, humilhações e xingamentos) e intrafamiliar (bater, chutar, ameaçar, etc.). Recente estudo de vitimização realizado no Rio de Janeiro aponta uma prevalência neste âmbito superior a 30%18. 
+Considerando que alguns tipos de violência urbana ocorrem com frequência na cidade e que os solteiros, em geral, pos­suem uma vida social ativa – circulando por distintos ambientes, principalmente à noite – não surpreende que os jovens (20-29 anos), homens e solteiros tenham sido mais vitimizados por roubos. A relação entre comportamento e exposição ao perigo tem sido apontada comumente na literatura28,29. A ‘teoria da oportunidade’29 é utilizada para explicar estes achados. Isto é, os jovens, possivelmente menos preocupados com a violência, se expõem mais às oportunidades de crime (locais públicos, deslocamento à noite, uso de bebidas alcoólicas no lazer). A literatura aponta que os jovens mais ricos29 (brancos e com alta escolaridade), que por­tam objetos de consumo valorizados (mar­cas de roupas e tênis caras, por exemplo), são mais vitimizados por roubo e furto do que os mais pobres. Entretanto, em Pelotas não houve diferença para esses tipos de crimes em relação ao nível socioeconômico. É possível que isso se deva ao fato de, nesta cidade, pessoas de diferentes níveis eco­nômicos circularem por lugares comuns, como, por exemplo, o centro da cidade e ruas de lazer noturno. Esse é um aspecto a ser investigado detalhadamente em estudos posteriores incluindo, por exemplo, o local onde o roubo ocorreu para melhor entender o perfil dos vitimizados por roubo e furto.
+Também no que tange à agressão, os indivíduos mais jovens e que referiram não ter companheiro(a) foram mais vi­timizados no município. As explicações em outros estudos não diferem das dadas para o roubo/furto28-30, qual seja: os jovens que não possuem um(a) companheiro(a) tendem a sair mais à noite e a possuírem hábitos solitários30; logo, tornam-se mais expostos a situações de violência. Além disso, acredita-se que comportamentos como a alta ingestão de bebidas alcoólicas, por exemplo, podem levar os indivíduos a participarem de brigas e a serem agredidos fisicamente.
+Pesquisas sobre vitimização por vio­lência urbana mostram que a ocorrência de violência é bem maior do que os dados oficiais sugerem26-29. Mais da metade dos indivíduos entrevistados para este traba­lho e que sofreram algum tipo de violência urbana referiram não ter notificado o crime à polícia. A alta subnotificação de algumas violências em Pelotas ressalta, principal­mente, como a população entende o seu papel frente ao sistema de segurança. As justificativas para a subnotificação dos furtos revelam que a população entrevis­tada tem a idéia errônea da necessidade de informar à polícia as características físicas de quem cometeu a violência, como se a ocorrência exigisse uma acusação. Além disso, algumas vítimas acreditam que se o valor do objeto subtraído for pequeno, o ‘trabalho’ de notificar não compensará, ou seja, enfrentarão a burocracia institucional e não recuperarão o objeto16. 
+As pesquisas de vitimização também mostram que a não resposta da instituição policial ao delito registrado contribui para que a população desacredite na atuação da polícia28,31. Em diferentes cidades as vítimas de roubos que não notificaram a ocorrência assinalaram que a polícia nada faria me­diante o registro28,31. As razões para a não notificação revelam parte da complexidade deste tema e de sua ligação com o tipo de crime sofrido. A falta de confiança na polícia também foi registrada neste estudo (57,7%), corroborando a tradicional imagem de ine­ficiência, brutalidade e opressão associadas às autoridades policiais8,31.
+Com base nestes resultados, acredita-se que informações dirigidas à população sobre os prejuízos que a não notificação da violência causam à sociedade podem, ao menos, minimizar uma prática comum na população brasileira. Em Pelotas, o exemplo inverso da prevalência de subnotificação seriam os crimes com uso de violência e que podem causar lesões físicas (roubos e agressões), com percentuais de notificações de 63,0 e 58,3, respectivamente. Situações de violência, que envolvem risco de vida ou violação dos direitos primordiais do cidadão, são mais notificadas, pois exigem que alguma medida de proteção e garantia à vida seja de fato tomada pelas autoridades ou que ao menos seja de conhecimento de­las. O registro, neste caso, cumpre a função de pressionar as autoridades a punirem o agressor e destaca o reconhecimento parcial da população da necessidade de resguardar sua segurança. No entanto, essa percepção pode conter aspectos ainda bastante indi­vidualistas (sentimento de vingança, medo de retaliação) e muito pouco de exigência frente ao poder público de garantia das suas necessidades de segurança enquanto cida­dãos de direitos. Embora seja uma tarefa complexa, este último aspecto requer um trabalho educativo em nível populacional, mostrando que população e polícia devem estar afinados nos seus propósitos.
+Tendo em vista que o crescimento da violência e as razões para a subnotificação do crime têm-se dado de forma preocupan­te em distintas cidades, é relevante que as discussões sobre o tema incluam o conhe­cimento (subjetivo, econômico e sociocul­tural) sobre os contextos em que os mais diversos tipos de violência são produzidos. 
+De modo geral, estudar quais são os fatores que aumentam a vulnerabilidade para a vitimização nas cidades do interior e os que contribuem para a continuidade dos atos violentos seguem sendo recomen­dações, embora amplas, importantes para uma nova configuração do atual quadro da violência. As especificações locais (perfil das vitimas, dos agressores, locais dos crimes e medidas tomadas) podem ajudar a definir uma atuação pública mais efetiva, pautada nas prioridades dos municípios ao consi­derarem as necessidades de segurança e bem-estar da população.
+Agradecimentos: Este trabalho contou com o apoio financeiro da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), através do Programa de Apoio à Pós-graduação (PROAP). Os autores agradecem ao Prof. Dr. Fernando Barros pela leitura e colaborações durante o pro­cesso de confecção do artigo.
+Tabela 1 - Descrição e distribuição da amostra segundo variáveis demográficas e socioeconômicas (N = 2912). Pelotas - RS, 2007.
+
+Variável
+ N
+ %
+ 
+Sexo
+ 
+Masculino
+ 1257
+ 43,2
+ 
+Feminino 
+ 1655
+ 56,8
+ 
+Idade
+ 
+20-29
+ 697
+ 23,9
+ 
+30-39
+ 543
+ 18,7
+ 
+40-49
+ 582
+ 20,0
+ 
+50-59
+ 513
+ 17,6
+ 
+60 ou mais
+ 577
+ 19,8
+ 
+Cor da pele
+ 
+Branca
+ 2197
+ 75,5
+ 
+Preta
+ 398
+ 13,7
+ 
+Outra
+ 313
+ 10,8
+ 
+Situação conjugal
+ 
+Com companheiro
+ 1783
+ 61,3
+ 
+Sem companheiro
+ 1127
+ 38,7
+ 
+Escolaridade (anos de estudo)
+ 
+0-4
+ 677
+ 23,2
+ 
+5-8
+ 919
+ 31,6
+ 
+9-11
+ 747
+ 25,7
+ 
+12 ou mais
+ 569
+ 19,5
+ 
+Nível econômico (ABEP)*
+ 
+A
+ 160
+ 5,5
+ 
+B
+ 923
+ 32,0
+ 
+C
+ 1343
+ 46,6
+ 
+D/E
+ 457
+ 15,9
+ 
+TOTAL
+ 2912
+ 100
+ 
+*Variável com maior número de valores ignorados (n = 29).
+ 
+
+
+
+Tabela 2 - Análise bruta da associação entre a vitimização por violência urbana nos últimos 12 meses, segundo variáveis demográficas e socioeconômicas (N = 2912). Pelotas - RS, 2007.
+Variáveis
+ Roubo (%)
+ Furto (%)
+ Agressão (%)
+ Furto/roubo à residência (%)
+ Violência global (%)
+ 
+Sexo
+ 0,007h
+ 0,000 h
+ 0,173 h
+ 0,577 h
+ 0,001 h
+ 
+Masculino
+ 3,7
+ 7,9
+ 1,8
+ 10,0
+ 19,0
+ 
+Feminino
+ 1,9
+ 4,5
+ 1,2
+ 9,5
+ 14,7
+ 
+Idade
+ 0,006t
+ 0,029 t
+ 0,000 t
+ 0,895 t
+ 0,024 t
+ 
+20-29
+ 4,7
+ 6,3
+ 2,2
+ 11,2
+ 20,1
+ 
+30-39
+ 1,3
+ 7,7
+ 2,0
+ 7,6
+ 15,3
+ 
+40-49
+ 2,8
+ 6,4
+ 1,9
+ 9,5
+ 16,9
+ 
+50-59
+ 2,9
+ 5,5
+ 1,0
+ 9,9
+ 16,2
+ 
+60 ou mais
+ 1,2
+ 3,8
+ 0,2
+ 10,1
+ 13,5
+ 
+Cor da pele
+ 0,086 h
+ 0,661 h
+ 0,692 h
+ 0,888 h
+ 0,428 h
+ 
+Branca
+ 3,0
+ 6,2
+ 1,6
+ 9,7
+ 17,1
+ 
+Preta
+ 1,0
+ 4,8
+ 1,5
+ 9,1
+ 13,6
+ 
+Outra
+ 2,9
+ 6,1
+ 1,0
+ 10,2
+ 16,6
+ 
+Situação conjugal
+ 0,002 h
+ 0,876 h
+ 0,026 h
+ 0,488 h
+ 0,407 h
+ 
+Com companheiro
+ 1,9
+ 6,0
+ 1,0
+ 10,1
+ 16,1
+ 
+Sem companheiro
+ 3,9
+ 5,9
+ 2,2
+ 9,2
+ 17,4
+ 
+Escolaridade (anos de estudo)
+ 0,045 t
+ 0,006 t
+ 0,529 t
+ 0,504 t
+ 0,077 t
+ 
+0-4
+ 1,8
+ 4,0
+ 1,3
+ 9,8
+ 14,9
+ 
+5-8
+ 2,7
+ 5,9
+ 1,3
+ 8,7
+ 15,8
+ 
+9-11
+ 2,7
+ 6,7
+ 1,7
+ 10,3
+ 17,0
+ 
+12 ou mais
+ 3,7
+ 7,4
+ 1,6
+ 10,5
+ 19,2
+ 
+Nível econômico (ABEP)
+ 0,477 t
+ 0,054 t
+ 0,505 t
+ 0,613 t
+ 0,288 t
+ 
+A
+ 3,1
+ 9,4
+ 1,3
+ 13,1
+ 22,5
+ 
+B
+ 2,8
+ 6,4
+ 1,2
+ 9,9
+ 16,8
+ 
+C
+ 2,8
+ 5,7
+ 1,7
+ 8,9
+ 15,7
+ 
+D/E
+ 2,2
+ 4,4
+ 1,5
+ 10,5
+ 16,7
+ 
+TOTAL
+ 2,7
+ 6,0
+ 1,5
+ 9,7
+ 16,6
+ 
+h – Teste de Wald para heterogeneidade h – Wald Test for heterogeneity 
+ 
+
+
+
+Tabela 3 - Descrição e distribuição da notificação e subnotificação à polícia, segundo o tipo de violência urbana sofrida (N =2 912). Pelotas - RS, 2007.
+
+N
+ Notificações (N)
+ Subnotificações (%)
+ 
+Roubo à residência
+ 805
+ 344
+ 57,3
+ 
+Roubo
+ 238
+ 150
+ 37,0
+ 
+Furto
+ 476
+ 211
+ 55,7
+ 
+Agressões
+ 108
+ 63
+ 41,7
+ 
+TOTAL
+ 1627
+ 768
+ 52,8
+
+
+
